@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NYCSchools</string>
+    <string name="writing">writing</string>
+    <string name="reading">reading</string>
+    <string name="math">math</string>
+    <string name="num">num</string>
+    <string name="testschool">school</string>
+</resources>
